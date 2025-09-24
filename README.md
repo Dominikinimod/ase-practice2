@@ -1,3 +1,5 @@
+[![Continuous Integration](https://github.com/Dominikinimod/ase-practice2/actions/workflows/ci.yml/badge.svg)](https://github.com/Dominikinimod/ase-practice2/actions/workflows/ci.yml)
+
 # Estimating Text Similarity by Shingling
 
 **Authors:** Ármin Zavada, Kristóf Marussy
